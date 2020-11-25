@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Developing reliable and scalebale software with new technologies.
+- 🤔 &nbsp; Developing reliable and scalable software with new technologies.
 - 🎓 &nbsp; Working on a Masters of Science with a focus on ML and AI.
 - 💼 &nbsp; Working in Pixelogic on localization software that is used by publishers like Netflix.
 - 🌱 &nbsp; Learning more about Cloud Architecture (AWS), Systems Design and Deployment (CI/CD).
